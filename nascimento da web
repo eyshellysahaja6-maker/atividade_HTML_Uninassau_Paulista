@@ -40,7 +40,7 @@ E há uma diferença importante: Internet e Web não são a mesma coisa. A Inter
 
 Em outras palavras: a Internet já existia, mas em 1990 Berners-Lee criou a tecnologia que transformaria essa rede em um espaço de documentos interligados por links.</p>
 
-<a href="http://127.0.0.1:5500/segundapagina.html" Target="blanc">Clique aqui para saber mais.</a>
+<a href="segundapagina.html" Target="blanc">Clique aqui para saber mais.</a>
           
 
     
