@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nascimento da web</title>
+</head>
+<body>
+        <h1>Primeira página Web</h1>
+
+        <h2><i> O nascimento da <strong>World Wide Web</strong>
+        </i></h2>
+
+       <ul><li>
+<p>A World Wide Web (WWW) nasceu em março de 1989, quando o 
+            cientista britânico Tim Berners-Lee apresentou sua proposta inicial no CERN (Organização Europeia para a Pesquisa Nuclear)</p>
+       </li></ul>
+
+       <h1>O contexto da criação</h1>
+       <ul><li>
+<p> <strong>O problema:</strong> A internet já existia desde os anos 1960 e 1980, mas era baseada em comandos de texto complexos e
+     difíceis de usar, restrita a cientistas e militares.</p>
+
+     <li> <strong>A solução:</strong>  Berners-Lee quis criar um sistema global de gestão de documentos para 
+        compartilhar informações facilmente entre universidades e institutos de pesquisa.</li>
+       </li></ul>
+       <h1>por que isso foi revolucionario?</h1>
+       <p>Berners-Lee combinou três ideias fundamentais:
+        <br>
+        <i><strong>HTML - </strong>para estruturar as páginas</i>
+        <br>
+        <i><strong>HTTP - </strong> para permitir a comunicação entre navegador e servidor</i>
+        <br>
+        <i><strong>URL - </strong>para identificar onde cada recurso estava localizado </i>
+       </p>
+       <h1>Um detalhe curioso:</h1>
+       <p>A <strong>primeira página Web não era uma página de notícias</strong>, uma rede social ou uma loja. Ela explicava o próprio projeto da Web. Era, essencialmente, um manual sobre como a nova tecnologia funcionava.
+
+E há uma diferença importante: Internet e Web não são a mesma coisa. A Internet é a infraestrutura de redes que conecta computadores; a Web é um dos serviços construídos sobre essa infraestrutura.
+
+Em outras palavras: a Internet já existia, mas em 1990 Berners-Lee criou a tecnologia que transformaria essa rede em um espaço de documentos interligados por links.</p>
+
+<a href="http://127.0.0.1:5500/segundapagina.html" Target="blanc">Clique aqui para saber mais.</a>
+          
+
+    
+</body>
+</html>
