@@ -1,35 +1,35 @@
-
   body{
     font-size: 18px;
     text-align: center;
-    font-family: Arial, sans-serif;
+    font-family:'Times New Roman', Times, serif;
     background-color: #e4bef3;
-    background-image: url("https://i.pinimg.com/originals/4d/eb/5f/4deb5f7ffc6c917232f06470daca1969.png"); ;
+    background-image: url("https://cdn.awsli.com.br/895/895233/produto/271873877/ciara---folhagem-fina-a64202-33oxmw3u2t.jpg");
     margin-top: 165px;
 }
 
 .caixa_externa {
-    background-color: rgb(202, 185, 216);
+    background-color: rgb(130, 182, 166);
     margin-top: 250px;
     margin: 0 auto;
     border-radius: 10px;
-    width: 340px;
+    width: 380px;
     height: 460px; 
     height: 460px; 
+    box-shadow: 5px 5px 50px rgb(226, 179, 108);
 
 }
 
 .button {
-    background-color: rgb(159, 129, 187);
+    background-color: rgb(83, 102, 96);
     transition: all 0.3s ease-in-out;
     cursor: pointer;
-    color: white;
+    color: rgb(198, 235, 201);
 }
 
 .button:hover{
-    background-color: rgb(179, 153, 204);
+    background-color: rgb(199, 228, 210);
 }
 
-.termo_uso {
-    background-color: rgb(245, 243, 243);
+.aceito_termos_uso {
+    color: rgb(112, 67, 67);
 }
